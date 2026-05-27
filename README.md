@@ -3,11 +3,13 @@
 # AirGuard STM32
 
 ## Sistema de Monitoramento de Qualidade do Ar com STM32 Blue Pill e MQ-135
+<h2>Esquema do pinout da STM32</h2>
 
 <img src="./imgs/stm32.png" width="500">
 
 <br><br>
 
+<h2>Esquema do MQ-135</h2>
 <img src="./imgs/mq-135.webp" width="300">
 
 </div>
